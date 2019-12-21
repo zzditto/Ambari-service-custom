@@ -16,4 +16,4 @@ Ambari集成flume1.7，es7.2，kibana7.2
 
 注：flume1.7安装时和自带的flume不同，需要提前将conf参数设置好
 
-具体自定义服务步骤请查看：[小柚麯]()
+具体自定义服务步骤请查看：[小柚麯](https://zzditto.cn/2019/12/16/Learn/Ambari2-6-2%E5%92%8CFlume1-7%E9%9B%86%E6%88%90/#more)
